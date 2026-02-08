@@ -1,0 +1,8 @@
+{
+  "name": "netlify-plugin-sitemap-ping",
+  "version": "1.0.0",
+  "description": "Netlify build plugin that pings Google, Bing, and Yandex with your sitemap URL after every deploy.",
+  "main": "index.js",
+  "keywords": ["netlify", "netlify-plugin", "sitemap", "seo", "indexing"],
+  "license": "MIT"
+}
